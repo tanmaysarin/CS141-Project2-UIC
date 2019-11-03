@@ -1,36 +1,105 @@
-### Getting started
-There are various things you can do to quickly and efficiently configure your Codio Box to your exact requirements. 
+Write a program to display random lyrics from the songs used at 2020 presidential campaign rallies.  Create a quiz to display random lyrics and ask the user to guess if the lyrics are from Donald Trump or Elizabeth Warren.  
 
-### GUI Applications and the Virtual Desktop 
-The Virtual Desktop allows you auto develop GUI based applications using any programming language. You can install a Virtual Desktop in your Box. You can then start the desktop and view it within the Codio IDE or in a new browser tab.
+Running the program in Codio should look like the following, where user input is shown in bold:
+----  Program 2: Rally Songs  ----
+Select from the following:
+   1. Set number of lines to display
+   2. Get random lines from Trump.txt
+   3. Get random lines from Warren.txt
+   4. Rally song quiz
+   5. Exit the program
+Your choice --> 2
 
-[Virtual Desktop documentation](https://codio.com/docs/ide/boxes/installsw/gui/)
+Singing Sweet Home Alabama all summer long
+And the last known survivor stalks his prey in the night
+Sipping whiskey out the bottle, not thinking 'bout tomorrow
+
+----  Program 2: Rally Songs  ----
+Select from the following:
+   1. Set number of lines to display
+   2. Get random lines from Trump.txt
+   3. Get random lines from Warren.txt
+   4. Rally song quiz
+   5. Exit the program
+Your choice --> 3
+
+Get up now, get up, get up now
+You're the only one I see
+And so on and so on and scooby dooby doo
+
+----  Program 2: Rally Songs  ----
+Select from the following:
+   1. Set number of lines to display
+   2. Get random lines from Trump.txt
+   3. Get random lines from Warren.txt
+   4. Rally song quiz
+   5. Exit the program
+Your choice --> 1
+
+Enter the number of lines you want to display -> 5
+
+----  Program 2: Rally Songs  ----
+Select from the following:
+   1. Set number of lines to display
+   2. Get random lines from Trump.txt
+   3. Get random lines from Warren.txt
+   4. Rally song quiz
+   5. Exit the program
+Your choice --> 2
+
+Sweet home Alabama
+From Detroit down to Houston
+You had a busy day today
+Cause I'm as free as a bird now
+And this bird you can not change
+
+----  Program 2: Rally Songs  ----
+Select from the following:
+   1. Set number of lines to display
+   2. Get random lines from Trump.txt
+   3. Get random lines from Warren.txt
+   4. Rally song quiz
+   5. Exit the program
+Your choice --> 4
+
+Need a little help y'all
+And you cannot slip
+You're the one that always calls
+Yeah, you turn me on
+(They say love hurts)
+
+Enter 1 for Trump, 2 for Warren: 2
+
+Correct! You got 1 out of 1, which is 100%
 
 
-### Command line access and the Terminal window
-All Codio Boxes provide sudo level privileges to the underlying Ubuntu server. This means you can install and configure any component you like. You access the terminal from the **Tools->Terminal** menu item.
+----  Program 2: Rally Songs  ----
+Select from the following:
+   1. Set number of lines to display
+   2. Get random lines from Trump.txt
+   3. Get random lines from Warren.txt
+   4. Rally song quiz
+   5. Exit the program
+Your choice --> 4
 
-### Debugger
-The Codio IDE comes with a powerful visual debugger. Currently we support Python, Java, C, C++ and NodeJS. Other languages can be added on request.
+It was 1989, my thoughts were short my hair was long
+It was 1989, my thoughts were short my hair was long
+Carry on, nothing equals the splendor
+Turning back she just laughs
+The eye of the tiger
 
-[Debugger documentation](https://codio.com/docs/ide/features/debugging/)
+Enter 1 for Trump, 2 for Warren: 2
+
+Wrong! You got 1 out of 2, which is 50%
 
 
-### Content authoring and assessments
-Codio comes with a very powerful content authoring tool, Codio Guides. Guides is also where you create all forms of auto-graded assessments. 
+----  Program 2: Rally Songs  ----
+Select from the following:
+   1. Set number of lines to display
+   2. Get random lines from Trump.txt
+   3. Get random lines from Warren.txt
+   4. Rally song quiz
+   5. Exit the program
+Your choice --> 5
 
-- [Guides documentation](https://codio.com/docs/content/authoring/overview/)
-- [Assessments documentation](https://codio.com/docs/content/authoring/assessments/)
-
-### Templating Box configurations and projects
-Codio offers two very powerful templating options so you can create new projects from those templates with just a couple of clicks. **Stacks** allow you to create snapshots of the Box’s underlying software configuration. You can then create new projects from a Stack avoiding having to configure anew each time you start a new project. **Starter Packs** allow you to template an entire project, including workspace code.
-
-- [Stacks documentation](https://codio.com/docs/project/stacks/)
-- [Starter Packs documentation](https://codio.com/docs/project/packs/)
-
-### Install software
-You can always install software onto your Box using the command line. However, Codio offers a shortcut for commonly installed components that can be accessed from the **Tools->Install Software** menu.
-
-We can easily add new items to the Install Software screen, so feel free to submit requests.
-
-[Install Software documentation](https://codio.com/docs/ide/boxes/installsw/box-parts/)
+You got 1 out of 2, which is 50%
