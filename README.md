@@ -1,3 +1,8 @@
+###CS141-Project1-UIC
+Link-> https://sites.google.com/site/uiccs141/programs/prog-1-print-uic
+
+Program Description-
+
 Write a program to display random lyrics from the songs used at 2020 presidential campaign rallies.  Create a quiz to display random lyrics and ask the user to guess if the lyrics are from Donald Trump or Elizabeth Warren.  
 
 Running the program in Codio should look like the following, where user input is shown in bold:
