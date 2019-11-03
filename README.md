@@ -1,5 +1,6 @@
-CS141-Project1-UIC
-Link-> https://sites.google.com/site/uiccs141/programs/prog-1-print-uic
+CS141-Project2-UIC
+
+Link-> https://sites.google.com/site/uiccs141/programs/prog-2-rally-songs
 
 Program Description-
 
