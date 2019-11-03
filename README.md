@@ -1,4 +1,4 @@
-###CS141-Project1-UIC
+CS141-Project1-UIC
 Link-> https://sites.google.com/site/uiccs141/programs/prog-1-print-uic
 
 Program Description-
